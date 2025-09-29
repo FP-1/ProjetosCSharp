@@ -30,3 +30,21 @@ C:\Projetos C#\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0
 C:\Projetos C#\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.pdb
 C:\Projetos C#\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.genruntimeconfig.cache
 C:\Projetos C#\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ref\ExemplosFundamentos.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.exe
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.deps.json
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.runtimeconfig.json
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.pdb
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.AssemblyInfo.cs
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\refint\ExemplosFundamentos.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.pdb
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.genruntimeconfig.cache
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ref\ExemplosFundamentos.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.Common.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\bin\Debug\net9.0\ExemplosFundamentos.Common.pdb
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\ExemplosFundamentos.csproj.AssemblyReference.cache
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos\obj\Debug\net9.0\Exemplos.851C969E.Up2Date

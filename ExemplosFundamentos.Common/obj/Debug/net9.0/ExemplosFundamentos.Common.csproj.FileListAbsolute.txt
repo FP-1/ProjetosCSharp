@@ -1,0 +1,11 @@
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\bin\Debug\net9.0\ExemplosFundamentos.Common.deps.json
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\bin\Debug\net9.0\ExemplosFundamentos.Common.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\bin\Debug\net9.0\ExemplosFundamentos.Common.pdb
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ExemplosFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ExemplosFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ExemplosFundamentos.Common.AssemblyInfo.cs
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ExemplosFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ExemplosFundamentos.Common.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\refint\ExemplosFundamentos.Common.dll
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ExemplosFundamentos.Common.pdb
+C:\Users\Felipe\Downloads\ExemplosFundamentos - Backup\ExemplosFundamentos.Common\obj\Debug\net9.0\ref\ExemplosFundamentos.Common.dll

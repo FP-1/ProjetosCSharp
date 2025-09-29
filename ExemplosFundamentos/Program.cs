@@ -1,13 +1,164 @@
-﻿using System.Data;
-using System.Reflection.Metadata;
-using ExemplosFundamentos.Common.Models;
+﻿    using ExemplosFundamentos.Common.Models;
 
 
 
-Pessoa pessoa1 = new Pessoa();  
-pessoa1.Nome = "Felipe";  
-pessoa1.Idade = 22;  
-pessoa1.Apresentar();
+    // Instanciando um objeto do tipo Pessoa
+    Pessoa p = new Pessoa();  
+
+    // Atribuindo valores as propriedades do objeto
+    p.Nome = "Felipe";  
+    p.Idade = 22;
+
+    // Chamando o método do objeto  
+    p.Apresentar();
+
+
+
+
+
+
+
+
+
+
+
+    // List <string> listaString = new List<string>(); 
+
+    // listaString.Add("SP");  
+    // listaString.Add("BA");
+    // listaString.Add("MG");  
+    // listaString.Add("RJ");
+
+    // Console.WriteLine($"Itens na lista: {listaString.Count} - Capacidade atual: {listaString.Capacity}");
+
+    // listaString.Add("SC");
+    
+    // Console.WriteLine($"Itens na lista: {listaString.Count} - Capacidade atual: {listaString.Capacity}");
+
+    // listaString.Remove("MG");
+
+    // Console.WriteLine($"Itens na lista: {listaString.Count} - Capacidade atual: {listaString.Capacity}");   
+
+
+
+
+
+
+
+
+
+
+
+
+
+//     Console.WriteLine("Percorrendo a lista com o for");
+//     for (int contador = 0; contador < listaString.Count; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} : {listaString[contador]}");
+// }
+
+//     Console.WriteLine("Percorrendo a lista com o foreach");
+//     int contadorforEach = 0;
+//     foreach (string item in listaString)
+// {
+//     Console.WriteLine($"Posição N° {contadorforEach} - {item}");
+//     contadorforEach++;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//     int [] arrayInteiros = new int[4]; 
+
+//     arrayInteiros[0] = 72;
+//     arrayInteiros[1] = 64;  
+//     arrayInteiros[2] = 50;
+//     arrayInteiros[3] = 1; // altera o valor da posição 0 do array
+
+//     int [] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+//     Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);  
+
+//     //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);  
+
+
+
+//     Console.WriteLine("Percorrendo com o for"); 
+//     for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} : {arrayInteiros[contador]}");
+// }
+
+
+
+
+
+
+
+
+
+
+//     Console.WriteLine("Percorrendo com o foreach");
+
+//     int contadorforEach = 0;
+// foreach (int valor in arrayInteiros)
+
+// {
+//     Console.WriteLine($"Posição N° {contadorforEach} : {valor}");
+//     contadorforEach++; 
+// }   
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // Pessoa pessoa1 = new Pessoa();
+    // pessoa1.Nome = "Felipe";
+    // pessoa1.Idade = 22;
+    // pessoa1.Apresentar();
+
+    
+
 
 
 
@@ -166,7 +317,7 @@ pessoa1.Apresentar();
 // Calculadora calc = new Calculadora();
 
 // calc.RaizQuadrada(9); 
- 
+
 
 
 
@@ -326,7 +477,7 @@ pessoa1.Apresentar();
 //   case "u":
 //     Console.WriteLine("Vogal");
 //     break;
-      
+
 //   default:
 //     Console.WriteLine("Não é uma vogal");
 //     break;

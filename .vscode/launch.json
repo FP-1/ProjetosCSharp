@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar Projeto Exemplo",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/ExemplosFundamentos/bin/Debug/net9.0/ExemplosFundamentos.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/ExemplosFundamentos",
+      "console": "integratedTerminal",
+      "stopAtEntry": false
+    }
+  ]
+}
